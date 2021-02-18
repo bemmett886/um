@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		<title>daBOIZcast</title>
+		<link>https://riverchicken.pw/daboizcast</link>
+		<language>en-us</language>
+		<copyright>&#169; 2020 RiverChicken inc.</copyright>
+		<itunes:author>RiverChicken</itunes:author>
+		<description>
+			We're not acting. This is what its like all the time. Constant Chaos... Great, isn't it?
+		</description>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Emmett Brown</itunes:name>
+			<itunes:email>riverchicken886@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:image href="https://riverchicken.pw/daboizcast/logo.png"/>
+		<itunes:category text="Comedy" />
+		<itunes:explicit>true</itunes:explicit>
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:title>The first of daBOIZcast.</itunes:title>
+			<description>
+					<![CDATA[Today we introduce ourselves, and talk about some of the recent current events happening in the world, as well as Ronan's love life.]]>
+				</content:encoded>
+			</description>
+			<enclosure
+					   length="length"
+					   type="audio/mpeg"
+					   url="https://riverchicken.pw/daboizcast/the_first_of_daboizcast.mp3"
+			/>
+			<guid>1</guid>
+			<pubDate>Sat, 14 Mar 2020 20:00:00 CDT</pubDate>
+			<itunes:duration>3905</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+		</item>
+	</channel>
+</rss>
