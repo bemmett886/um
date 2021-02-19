@@ -26,7 +26,7 @@
 			</description>
 			<enclosure
 					   length="length"
-					   type="audio/mpeg"
+					   type="audio/wav"
 					   url="boizcast 1.wav"
 			/>
 			<guid>1</guid>
